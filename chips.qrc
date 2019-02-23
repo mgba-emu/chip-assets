@@ -1,5 +1,5 @@
 <!DOCTYPE RCC><RCC version="1.0">
- <qresource prefix="/res">
+ <qresource>
   <file>exe4/001.png</file>
   <file>exe4/002.png</file>
   <file>exe4/003.png</file>
